@@ -1,0 +1,1 @@
+enemyHealth = enemyHealth - 1;

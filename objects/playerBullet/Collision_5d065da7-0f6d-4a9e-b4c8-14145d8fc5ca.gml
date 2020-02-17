@@ -1,0 +1,1 @@
+hero.targetAmount = hero.targetAmount - 1

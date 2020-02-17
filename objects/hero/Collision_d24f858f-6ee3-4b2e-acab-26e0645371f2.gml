@@ -1,0 +1,1 @@
+heroHealth = heroHealth - 1
